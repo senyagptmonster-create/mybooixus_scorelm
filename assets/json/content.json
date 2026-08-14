@@ -1,0 +1,70 @@
+{
+  "drills": [
+    {
+      "id": "d1", "name": "Ladder: Two Feet In", "gear": "Speed ladder", "focus": "Foot speed",
+      "layout": "ladder",
+      "steps": [
+        "Stand tall at the end of the ladder, weight on the balls of the feet.",
+        "Step both feet into the first rung, left then right, as fast as you can.",
+        "Move straight to the next rung without pausing between them.",
+        "Keep the arms driving; do not let them go still.",
+        "Walk back for recovery and repeat six times."
+      ]
+    },
+    {
+      "id": "d2", "name": "Ladder: Lateral In-Out", "gear": "Speed ladder", "focus": "Lateral quickness",
+      "layout": "ladder",
+      "steps": [
+        "Stand side on at the bottom left of the ladder.",
+        "Step the lead foot in, then the trail foot in.",
+        "Step the lead foot out the far side, then the trail foot out.",
+        "Travel the whole length facing the same direction, then repeat facing the other way.",
+        "Four lengths each side."
+      ]
+    },
+    {
+      "id": "d3", "name": "Cone: T-Drill", "gear": "Four cones", "focus": "Change of direction",
+      "layout": "t",
+      "steps": [
+        "Set one cone at the start and one ten metres straight ahead.",
+        "Place two more cones five metres either side of the far cone.",
+        "Sprint forward to the middle cone and touch it.",
+        "Shuffle left, touch, shuffle right across to the far cone, touch.",
+        "Shuffle back to the middle and backpedal to the start. Six reps."
+      ]
+    },
+    {
+      "id": "d4", "name": "Cone: 5-10-5", "gear": "Three cones", "focus": "Acceleration",
+      "layout": "line",
+      "steps": [
+        "Place three cones in a line five metres apart.",
+        "Start at the middle cone in an athletic stance.",
+        "Sprint five metres to one side and touch the line.",
+        "Turn and sprint ten metres to the far cone and touch.",
+        "Turn and sprint five metres back through the middle. Six reps with full recovery."
+      ]
+    },
+    {
+      "id": "d5", "name": "Cone: Box Drill", "gear": "Four cones", "focus": "All-round movement",
+      "layout": "box",
+      "steps": [
+        "Set four cones in a five-metre square.",
+        "Sprint forward along the first side.",
+        "Shuffle sideways along the second.",
+        "Backpedal along the third.",
+        "Shuffle back to the start along the fourth. Three laps each direction."
+      ]
+    },
+    {
+      "id": "d6", "name": "Mirror Drill", "gear": "Partner and two cones", "focus": "Reaction",
+      "layout": "line",
+      "steps": [
+        "Face a partner about two metres apart between two cones.",
+        "The leader moves side to side at random without warning.",
+        "The follower mirrors every movement, staying square.",
+        "Work for twenty seconds, then swap roles.",
+        "Six rounds each, resting fully between them."
+      ]
+    }
+  ]
+}
