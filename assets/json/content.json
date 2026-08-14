@@ -1,0 +1,51 @@
+{
+  "sport": "Chess",
+  "tagline": "The board and its champions",
+  "categories": [
+    {
+      "id": "rules",
+      "name": "Rules & Pieces",
+      "blurb": "How the pieces move and games end",
+      "questions": [
+        {"id":"ch_l1","q":"How many squares are on a chessboard?","o":["49","56","64","81"],"a":2,"e":"An eight by eight grid."},
+        {"id":"ch_l2","q":"How many pieces does each player start with?","o":["12","14","16","18"],"a":2,"e":"Eight pawns and eight other pieces."},
+        {"id":"ch_l3","q":"Which piece moves diagonally only?","o":["Rook","Bishop","Knight","King"],"a":1,"e":"Each bishop stays on one colour all game."},
+        {"id":"ch_l4","q":"Which piece moves in an L shape and can jump over others?","o":["Bishop","Knight","Rook","Queen"],"a":1,"e":"Two squares one way and one square across."},
+        {"id":"ch_l5","q":"What is castling?","o":["A single move involving the king and a rook","Promoting a pawn","Capturing en passant","Resigning the game"],"a":0,"e":"Neither piece may have moved and the path must be clear."},
+        {"id":"ch_l6","q":"What is stalemate?","o":["The side to move has no legal move and is not in check","Checkmate in one","A draw by repetition","Running out of time"],"a":0,"e":"Stalemate is scored as a draw."},
+        {"id":"ch_l7","q":"What happens when a pawn reaches the far rank?","o":["It is promoted to another piece","It is removed","It becomes a king","Nothing"],"a":0,"e":"Almost always promoted to a queen."},
+        {"id":"ch_l8","q":"What is en passant?","o":["A special pawn capture of a pawn that has just moved two squares","A king move","A rook manoeuvre","A draw offer"],"a":0,"e":"It must be played immediately or the right is lost."}
+      ]
+    },
+    {
+      "id": "openings",
+      "name": "Openings & Ideas",
+      "blurb": "The theory behind the first moves",
+      "questions": [
+        {"id":"ch_o1","q":"Which opening begins with the moves 1.e4 e5 2.Nf3 Nc6 3.Bb5?","o":["Ruy Lopez","Sicilian Defence","French Defence","Caro-Kann"],"a":0,"e":"Also called the Spanish Game."},
+        {"id":"ch_o2","q":"Which defence answers 1.e4 with 1...c5?","o":["Sicilian Defence","French Defence","Pirc Defence","Scandinavian"],"a":0,"e":"It is the most popular reply to 1.e4 at top level."},
+        {"id":"ch_o3","q":"What is the Queen's Gambit?","o":["1.d4 d5 2.c4, offering a pawn for central control","A king-side attack","A rook endgame","A checkmate pattern"],"a":0,"e":"Black can accept or decline the pawn."},
+        {"id":"ch_o4","q":"What is a fork?","o":["One piece attacking two or more enemy pieces at once","A doubled pawn","A blocked file","A drawn endgame"],"a":0,"e":"Knights are especially good at forking."},
+        {"id":"ch_o5","q":"What is a pin?","o":["A piece cannot move because a more valuable one sits behind it","Two pawns on one file","A king in check","A time control"],"a":0,"e":"An absolute pin is against the king."},
+        {"id":"ch_o6","q":"How many points is a queen worth in the standard material count?","o":["Five","Seven","Nine","Ten"],"a":2,"e":"Rook five, bishop and knight three, pawn one."},
+        {"id":"ch_o7","q":"What is zugzwang?","o":["Being forced to move and worsen your own position","A forced checkmate","A draw by agreement","An opening trap"],"a":0,"e":"Common in king and pawn endgames."},
+        {"id":"ch_o8","q":"What is the fastest possible checkmate, delivered by Black?","o":["Fool's mate in two moves","Scholar's mate in four","Smothered mate","Back rank mate"],"a":0,"e":"It requires very poor play by White."}
+      ]
+    },
+    {
+      "id": "champions",
+      "name": "Champions & History",
+      "blurb": "The world title through the years",
+      "questions": [
+        {"id":"ch_c1","q":"Who was the first official world chess champion?","o":["Wilhelm Steinitz","Emanuel Lasker","Jose Raul Capablanca","Paul Morphy"],"a":0,"e":"He took the title in 1886."},
+        {"id":"ch_c2","q":"Which American won the world title in 1972?","o":["Bobby Fischer","Sammy Reshevsky","Paul Keres","Larry Evans"],"a":0,"e":"He beat Boris Spassky in Reykjavik."},
+        {"id":"ch_c3","q":"Which Soviet champion held the title from 1985 into the 1990s?","o":["Anatoly Karpov","Garry Kasparov","Mikhail Tal","Tigran Petrosian"],"a":1,"e":"He became the youngest champion at 22."},
+        {"id":"ch_c4","q":"Which computer beat Garry Kasparov in a 1997 match?","o":["Deep Blue","AlphaZero","Stockfish","Deep Thought"],"a":0,"e":"IBM's machine won the six-game rematch."},
+        {"id":"ch_c5","q":"Which Norwegian became world champion in 2013?","o":["Magnus Carlsen","Jon Ludvig Hammer","Simen Agdestein","Aryan Tari"],"a":0,"e":"He beat Viswanathan Anand in Chennai."},
+        {"id":"ch_c6","q":"Which Indian player was world champion from 2007 to 2013?","o":["Viswanathan Anand","Pentala Harikrishna","Vidit Gujrathi","Krishnan Sasikiran"],"a":0,"e":"He held titles in classical, rapid and blitz."},
+        {"id":"ch_c7","q":"Which body governs international chess?","o":["FIDE","ICF","IOC","WCF"],"a":0,"e":"The Federation Internationale des Echecs, founded in 1924."},
+        {"id":"ch_c8","q":"What is the highest title FIDE awards?","o":["Grandmaster","International Master","FIDE Master","Candidate Master"],"a":0,"e":"It requires norms and a rating threshold."}
+      ]
+    }
+  ]
+}
